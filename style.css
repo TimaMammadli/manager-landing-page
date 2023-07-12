@@ -1,0 +1,253 @@
+.container {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.button {
+  width: 100px;
+  height: 50px;
+  border-radius: 30px;
+  background-color: rgb(207, 136, 5);
+  box-shadow: 1px 8px 21px -4px rgba(170, 90, 10, 0.58);
+  -webkit-box-shadow: 1px 8px 21px -4px rgba(170, 90, 10, 0.58);
+  -moz-box-shadow: 1px 8px 21px -4px rgba(170, 90, 10, 0.58);
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+ul {
+ 
+  justify-content: space-between;
+  gap: 3rem;
+  list-style: none;
+}
+
+.fw1 {
+  font-size: 50px;
+}
+
+.button2 {
+  width: 100px;
+  height: 50px;
+  border-radius: 30px;
+  background-color: rgb(207, 136, 5);
+  box-shadow: 1px 8px 21px -4px rgba(170, 90, 10, 0.58);
+  -webkit-box-shadow: 1px 8px 21px -4px rgba(170, 90, 10, 0.58);
+  -moz-box-shadow: 1px 8px 21px -4px rgba(170, 90, 10, 0.58);
+}
+
+.imgu {
+  width: 300px;
+  border: 1px solid white;
+  padding: 50px;
+  margin: 20px;
+  width: 500px;
+}
+.vsem {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.text-items {
+  width: 425px;
+}
+
+.left-text {
+  font-size: 20px;
+}
+.left-text2 {
+  font-size: 20px;
+  margin-top: 200px;
+}
+
+.about-left {
+  
+  margin-left: -123px;
+}
+.about {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.text1-button {
+  width: 74px;
+  height: 40px;
+  border: 1px solid orange;
+  padding: 0px;
+  margin: 0px;
+  border-radius: 22px;
+  background-color: orange;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.all-right {
+  display: flex;
+  flex-direction: column;
+}
+.about-text {
+  text-align: center;
+  padding: 90px;
+}
+
+.about-pictures1 {
+  width: 300px;
+  border: 1px solid green;
+  padding: 50px;
+  margin: 20px;
+  background-color: rgba(236, 233, 233, 0.864);
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.about-pictures2 {
+  width: 300px;
+  border: 1px solid green;
+  padding: 50px;
+  margin: 20px;
+  background-color: rgba(236, 233, 233, 0.864);
+}
+.about-pictures3 {
+  width: 300px;
+  border: 1px solid green;
+  padding: 50px;
+  margin: 20px;
+  background-color: rgba(236, 233, 233, 0.864);
+}
+
+.picturesall {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  position: relative;
+}
+.about-pp2,
+.about-pp,
+.about-pp1 {
+  position: absolute;
+  top: -17px;
+  width: 70px;
+  justify-content: center;
+  display: flex;
+  text-align: center;
+}
+
+.about-pp22 {
+  justify-content: center;
+  display: flex;
+}
+
+.button3 {
+  width: 85px;
+  height: 36px;
+  border-radius: 10px;
+  background-color: lightsalmon;
+}
+.button33 {
+  justify-content: center;
+  display: flex;
+}
+
+.orange {
+  background-color: rgba(228, 97, 21, 0.821);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  margin-top: 80px;
+}
+
+.button1 {
+  width: 100px;
+  height: 44px;
+  border-radius: 13px;
+}
+
+.logos {
+  width: -1px;
+  margin-top: 80px;
+
+}
+
+.last{
+  background-color: rgb(23, 23, 72);
+ 
+  padding: 100px;
+}
+
+.ulli{
+  list-style: none;
+  
+}
+.ulli li {
+  margin-top: 20px;
+  font-size: 20px;
+}
+.ulli1{
+  width: 50px;
+  height: 50px;
+  border: 1px solid green;
+  padding: 50px;
+  margin: 20px;
+  justify-content: space-between;
+  text-align: center;
+  flex-direction: column;
+
+}
+.footer-list{
+  display: flex;
+}
+.email{
+  width: 50px;
+  height: 50px;
+  border-radius: 10px;
+}
+.last{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+}
+.navbar{
+  display: flex;
+}
+.email2{
+  width: 50px;
+  height: 50px;
+  border-radius: 10px;
+
+}
+
+.text2-button{
+  width: 74px;
+  height: 40px;
+  border: 1px solid orange;
+  padding: 0px;
+  margin: 0px;
+  border-radius: 22px;
+  background-color: orange;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.text3-first{
+  width: 74px;
+  height: 40px;
+  border: 1px solid orange;
+  padding: 0px;
+  margin: 0px;
+  border-radius: 22px;
+  background-color: orange;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
